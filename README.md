@@ -1,5 +1,7 @@
 # androidApkCollect
 ### 更新地址 <https://lanzous.com/b016021lc>
+### 淘宝淘金币自动执行脚本，包含蚂蚁森林收取能量，年货节浇灌福气，解放你的双手 <https://github.com/we11cheng/taojinbi>
+
 
 ![](https://gitee.com/he11oworld/picBed/raw/master/20210123171335.png)
 
